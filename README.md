@@ -14,3 +14,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+I'm Shanmitha, a budding software engineer and tech enthusiast from Chennai.
+
+I'm currently in my final year of Computer Science, where I’ve led and contributed to multiple projects — from building an IoT-based railway gate automation system to developing a full-fledged money management Android app. I’ve interned as a web developer, working with React and collaborating closely with UI/UX teams to deliver real-world CRM solutions.
+
+I’m passionate about creating meaningful, user-centered applications and have a strong foundation in Python, and DSA. I’ve also represented my college in national conferences and secured podium finishes in intercollegiate paper presentations.
+
+Beyond code, I enjoy writing blogs, exploring leadership and personal growth, and staying curious about the future of tech.
+
+Let’s connect!
